@@ -10,7 +10,7 @@ import (
 
 	"database/sql"
 
-	"storyconv/config"
+	"storysource/config"
 
 	_ "github.com/lib/pq"
 )

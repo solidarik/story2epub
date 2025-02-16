@@ -1,4 +1,4 @@
-module storyconv
+module storysource
 
 go 1.23.4
 
